@@ -1,0 +1,33 @@
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransformList: Invalid window 0x118
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x118
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x117
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x116
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x115
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x114
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x113
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x112
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x111
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x11a
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransformList: Invalid window 0x118
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x118
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x117
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x116
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x115
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x114
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x113
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x112
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x111
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: CGXSetWindowTransform: Invalid window 0x11a
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: _CGXSetWindowListMotionBlur: Invalid window 0x118
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: _CGXSetWindowListMotionBlur: Invalid window 0x117
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: _CGXSetWindowListMotionBlur: Invalid window 0x116
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: _CGXSetWindowListMotionBlur: Invalid window 0x115
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: _CGXSetWindowListMotionBlur: Invalid window 0x114
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: _CGXSetWindowListMotionBlur: Invalid window 0x113
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: _CGXSetWindowListMotionBlur: Invalid window 0x112
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: _CGXSetWindowListMotionBlur: Invalid window 0x111
+Oct 22 08:09:18  [186] kCGErrorIllegalArgument: _CGXSetWindowListMotionBlur: Invalid window 0x11a
+Oct 22 08:26:19  [186] kCGErrorIllegalArgument: CGXGetWindowShape: Invalid window 1087
+Oct 22 11:19:45  [186] CGXMuxCapture: Starting
+Oct 22 11:19:45  [186] CGXMuxCapture: Acquired
+Oct 22 11:19:52  [186] CGXMuxCapture: Released
